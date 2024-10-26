@@ -271,36 +271,16 @@ We'd love your help to make **Daccotta** even better! If you're interested in co
 
 We'd love to hear from you! Reach out to us through our social media platforms:
 
-| Social Media | Icon |
-|--------------|------|
-| **LinkedIn** | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30">](https://www.linkedin.com/company/daccotta/) |
-| **Discord**  | [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Discord_logo.svg" width="30" height="30">](https://discord.com/invite/R859peEW) |
-| **Email**    | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_%28envelope%29_icon.svg" width="30" height="30">](mailto:daccotta.pvt@gmail.com) |
-| **Website**  | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="30">](https://github.com/daccotta-org/daccotta) |
+| Social Media Platform | Link |
+|-----------------------|------|
+| Email                 | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daccotta.pvt@gmail.com) |
+| Discord               | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/R859peEW) |
+| LinkedIn              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/daccotta/) |
+| GitHub                | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daccotta-org/daccotta) |
+
 
 ✨ "Your feedback is the compass that guides us!" ✨
 
-## 📞 Contact Us
-
-We'd love to hear from you! Reach out to us through our social media platforms:
-
-| Social Media | Icon |
-|--------------|------|
-| **LinkedIn** | [<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53aWtlbG9nby5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48Y2lyY2xlIGN4PSI1MDAiIGN5PSI1MDAiIHI9IjUwMCIgZmlsbD0iIzAwMDAwMCIgLz48cGF0aCBkPSJNNTUuNjM0IDguMTY4YzMuNTY5IDMuNTY5IDUuNjY2IDcuNzY5IDUuNjY2IHMtNC42NzY5IDExLjQwOS03LjY2NjMgNy42NjYzLTEuMjA4IDEyLjc1Ny0zLjI0ODcgMTAuODg2IDEuNjYzIDEuNjYzIDEuNjYzIDEuNjYzIDEuNjYzIDEuNjYzIDEuNjYzIDMuNTY5IDIuMTk1IDMuNTY5IDMuNTY5IDMuNTY5IDEuNjYzIDQuMTA5IDEuNjYzIDQuMTA5IDMuNTY5IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDEuNjYzIDEuNjYzIDEuNjYzIDEuNjYzIDUuNjY2IDUuNjY2IDUuNjY2IDEuNjYzIDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDMuNTY5IDEuNjYzIDEuNjYzIDEuNjYzIDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDMuNTY5IDEuNjYzIDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDUuNjY2IDIf the Discord and email icons are still not visible, you might want to use different icons or ensure that the paths to your image files are correct. Here’s a simplified version using standard Unicode emojis for Discord and email, which should always display correctly:
-
-```markdown
-## 📞 Contact Us
-
-We'd love to hear from you! Reach out to us through our social media platforms:
-
-| Social Media | Icon |
-|--------------|------|
-| **LinkedIn** | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/company/daccotta/) |
-| **GitHub**   | [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/daccotta-org/daccotta) |
-| **Email**    | 📧 [daccotta.pvt@gmail.com](mailto:daccotta.pvt@gmail.com) |
-| **Discord**  | 💬 [Join our Discord](https://discord.com/invite/R859peEW) |
-
-```
 ---
 
 ## ⚠️ Attribution
