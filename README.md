@@ -273,12 +273,13 @@ We'd love to hear from you! Reach out to us through our social media platforms:
 
 | Social Media | Icon |
 |--------------|------|
-| **LinkedIn** | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/company/daccotta/) |
-| **Discord**  | [![Discord](https://upload.wikimedia.org/wikipedia/en/7/75/Discord_logo.svg)](https://discord.com/invite/R859peEW) |
-| **Email**    | [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_%28envelope%29_icon.svg)](mailto:daccotta.pvt@gmail.com) |
-| **Website**  | [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/daccotta-org/daccotta) |
+| **LinkedIn** | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30">](https://www.linkedin.com/company/daccotta/) |
+| **Discord**  | [<img src="https://upload.wikimedia.org/wikipedia/en/7/75/Discord_logo.svg" width="30" height="30">](https://discord.com/invite/R859peEW) |
+| **Email**    | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_%28envelope%29_icon.svg" width="30" height="30">](mailto:daccotta.pvt@gmail.com) |
+| **Website**  | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" height="30">](https://github.com/daccotta-org/daccotta) |
 
 ✨ "Your feedback is the compass that guides us!" ✨
+
 
 
 ---
