@@ -276,10 +276,11 @@ We love to hear from you! Whether you have questions, feedback, or just want to 
 ### 🌐 Connect with Us:
 - **Website**: [Daccotta](https://github.com/daccotta-org/daccotta)
 - **Email**: [daccotta.pvt@gmail.com](mailto:daccotta.pvt@gmail.com)
-- **LinkedIn**: [Daccotta LinkedIn](https://www.linkedin.com/company/daccotta/)
-- **Discord**: Join our community: [Discord Invite](https://discord.com/invite/R859peEW)
+- **LinkedIn**: [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="20" height="20"> Daccotta LinkedIn](https://www.linkedin.com/company/daccotta/)
+- **Discord**: Join our community: [<img src="https://upload.wikimedia.org/wikipedia/en/7/75/Discord_logo.svg" width="20" height="20"> Discord Invite](https://discord.com/invite/R859peEW)
 
 🌟 "Together, let's build something amazing!" 🌟
+
 
 
 ---
