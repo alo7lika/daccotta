@@ -267,11 +267,20 @@ We'd love your help to make **Daccotta** even better! If you're interested in co
 
 ---
 
-## 📧 Contact
+## 📞 Contact Us
 
-Feel free to reach out to us for any queries or suggestions:
-**Email**: daccotta.pvt@gmail.com
-**Website**: [daccotta.com](https://daccotta.com)
+We love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out!
+
+✨ "Your feedback is the compass that guides us!" ✨
+
+### 🌐 Connect with Us:
+- **Website**: [Daccotta](https://github.com/daccotta-org/daccotta)
+- **Email**: [daccotta.pvt@gmail.com](mailto:daccotta.pvt@gmail.com)
+- **LinkedIn**: [Daccotta LinkedIn](https://www.linkedin.com/company/daccotta/)
+- **Discord**: Join our community: [Discord Invite](https://discord.com/invite/R859peEW)
+
+🌟 "Together, let's build something amazing!" 🌟
+
 
 ---
 
