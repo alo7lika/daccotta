@@ -269,18 +269,16 @@ We'd love your help to make **Daccotta** even better! If you're interested in co
 
 ## 📞 Contact Us
 
-We love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out!
+We love to hear from you! Feel free to reach out through any of the platforms below.
+
+| Social Media | Link |
+|--------------|------|
+| ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg) | [Daccotta LinkedIn](https://www.linkedin.com/company/daccotta/) |
+| ![Discord](https://upload.wikimedia.org/wikipedia/en/7/75/Discord_logo.svg) | [Daccotta Discord](https://discord.com/invite/R859peEW) |
+| **Email** | [daccotta.pvt@gmail.com](mailto:daccotta.pvt@gmail.com) |
+| **Website** | [Daccotta](https://github.com/daccotta-org/daccotta) |
 
 ✨ "Your feedback is the compass that guides us!" ✨
-
-### 🌐 Connect with Us:
-- **Website**: [Daccotta](https://github.com/daccotta-org/daccotta)
-- **Email**: [daccotta.pvt@gmail.com](mailto:daccotta.pvt@gmail.com)
-- **LinkedIn**: [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="20" height="20"> Daccotta LinkedIn](https://www.linkedin.com/company/daccotta/)
-- **Discord**: Join our community: [<img src="https://upload.wikimedia.org/wikipedia/en/7/75/Discord_logo.svg" width="20" height="20"> Discord Invite](https://discord.com/invite/R859peEW)
-
-🌟 "Together, let's build something amazing!" 🌟
-
 
 
 ---
